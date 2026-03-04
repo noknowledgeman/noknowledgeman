@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Oscar and I am a Computing Science student at the RUG
+
+## Projects
+
+- [Raytracing in a Weekend](https://github.com/noknowledgeman/zig-rtweekend)
+
+- [Voxel Engine])
+
 <!--
 **noknowledgeman/noknowledgeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
