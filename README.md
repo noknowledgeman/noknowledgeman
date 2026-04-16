@@ -6,8 +6,12 @@ My name is Oscar and I am a Computing Science student at the RUG
 
 ### [Raytracing in a Weekend](https://github.com/noknowledgeman/zig-rtweekend)
 
+> A self built Raytracing Library following the Raytracing in a Weekend book.
+
 ### [Voxel Engine](https://github.com/noknowledgeman/zig-minecraft)
+
+> A Minecraft style Voxel Engine written in Zig and OpenGL.
 
 ### [Machine learning](https://github.com/noknowledgeman/c-machine-learning)
 
-> A fully self build implementation of a neural network in c
+> A self built Deep Learning library in C with no mandatory external dependencies.
