@@ -15,3 +15,7 @@ My name is Oscar and I am a Computing Science student at the RUG
 ### [Machine learning](https://github.com/noknowledgeman/c-machine-learning)
 
 > A self built Deep Learning library in C with no mandatory external dependencies.
+
+#### [Decentralized Exchange](https://github.com/noknowledgeman/Decentralized-Exchange)
+
+> A decentralized exchange built on Ethereum with a frontend.
