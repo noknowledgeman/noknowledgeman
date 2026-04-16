@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Oscar and I am a Computing Science student at the RUG
+My name is Oscar and I am a Computing Science student at the RUG. Here is some projects I have worked ont
 
 ## Projects
 
@@ -16,6 +16,6 @@ My name is Oscar and I am a Computing Science student at the RUG
 
 > A self built Deep Learning library in C with no mandatory external dependencies.
 
-#### [Decentralized Exchange](https://github.com/noknowledgeman/Decentralized-Exchange)
+### [Decentralized Exchange](https://github.com/noknowledgeman/Decentralized-Exchange)
 
 > A decentralized exchange built on Ethereum with a frontend.
